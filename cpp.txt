@@ -1,0 +1,23 @@
+c++
+long long (%lld)
+
+<algorithm>
+unique
+find
+*max_element
+sort
+
+<queue>
+queue
+priority queue
+
+<sstream>
+stringstream
+
+<functional>
+greater<int>
+less<int>
+
+<cctype>
+isdigit()
+isalpha
