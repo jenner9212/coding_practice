@@ -33,3 +33,10 @@ long long (%lld)
 * **cctype**
   - isdigit()
   - isalpha()
+
+<br>
+<br>
+
+* **solution**
+  - 유클리드 호제법
+  - 에라토스테네스의 체 (소수판별 수가 많을 때)
