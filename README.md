@@ -10,6 +10,7 @@ long long (%lld)
   - find
   - *max_element
   - sort
+  - next_permutation
     
 <br>
 
