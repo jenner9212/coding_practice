@@ -1,3 +1,5 @@
+# stdc++.h
+```cpp
 #pragma once
 #include <cctype>
 #include <cerrno>
@@ -77,3 +79,4 @@
 #include <type_traits>
 #include <unordered_map>
 #include <unordered_set>
+```
