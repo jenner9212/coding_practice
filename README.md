@@ -36,7 +36,9 @@ long long (%lld)
   - isalpha()
 
 <br>
+
 *****
+
 <br>
 
 * **solution**
@@ -44,7 +46,9 @@ long long (%lld)
   - 에라토스테네스의 체 (소수판별 수가 많을 때)
 
 <br>
+
 *****
+
 <br>
 
 * **Read File**
