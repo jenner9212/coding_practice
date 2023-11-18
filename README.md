@@ -12,8 +12,26 @@
 
 ```cpp
 long long (%lld)          = -9,223,372,036,854,775,808 ~  9,223,372,036,854,775,807
-
+```
+```cpp
 unsigned long long (%llu) =                          0 ~ 18,446,744,073,709,551,615
+```
+```cpp
+int %d, char %c, char * (string) %s, double %lf, long long %lld
+```
+
+<br>
+
+*****
+
+<br>
+
+```cpp
+std::cout, std::cin --> printf(), scanf()
+```
+```cpp
+// ex) string -> c_str()
+printf("%s", str.c_str())
 ```
 
 <br>
