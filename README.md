@@ -35,33 +35,43 @@ unsigned long long (%llu) =                          0 ~ 18,446,744,073,709,551,
 <br>
 
 * **queue**
+
   - queue
   - priority queue
     
 <br>
 
 * **sstream**
+
   - stringstream
 
 <br>
 
 * **functional**
+
   - greater<int>
   - less<int>
 
 <br>
 
 * **cctype**
+
   - isdigit()
   - isalpha()
 
 <br>
+
+* **iomanip**
+
+  - fixed
+  - setprecision()
 
 *****
 
 <br>
 
 * **solution**
+
   - 유클리드 호제법
   - 에라토스테네스의 체 (소수판별 수가 많을 때)
 
