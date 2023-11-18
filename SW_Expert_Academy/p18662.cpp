@@ -14,8 +14,10 @@ int main() {
 
 		double x = (c - 2 * b + a) / 2.0;
 
-		cout << fixed << setprecision(1);
-		cout << "#" << t << " " << x << endl;
+		/*cout << fixed << setprecision(1);
+		cout << "#" << t << " " << abs(x) << endl;*/
+
+		printf("#%d %.1lf\n", t, abs(x));
 	}
 
 	return 0;
