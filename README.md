@@ -49,6 +49,31 @@ printf("%s", str.c_str())
   - *max_element
   - sort
   - next_permutation
+  - fill / fill_n
+  
+  ```cpp
+  // ex) 2D vector
+  fill(matrix.begin(), matrix.end(), vector<int> (MAX, n)); | fill_n(matrix.begin(), MAX, vector<int> (MAX, n));
+  ```
+
+   ```cpp
+  // ex) 2D array
+  fill(arr[0], arr[MAX - 1] + MAX, n);
+  ```
+  ```cpp
+  fill(arr[0], arr[MAX], n); | fill_n(arr[0], MAX * MAX, n);
+  ```
+
+  ```cpp
+  // ex) 1D vector
+  fill(matrix.begin(), matrix.end(), n); | fill_n(matrix.begin(), MAX, n);
+  ```
+
+   ```cpp
+  // ex) 1D array
+  fill(arr, arr+MAX, n); | fill_n(arr, MAX, n);
+  ```
+
     
 <br>
 
