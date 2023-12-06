@@ -109,6 +109,14 @@ printf("%s", str.c_str())
   - fixed
   - setprecision()
 
+<br>
+
+* **numeric**
+
+  - accumulate
+
+  init -> 0(int), 0.0(double), 0LL(long long)
+
 *****
 
 <br>
